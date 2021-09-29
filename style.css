@@ -1,4 +1,8 @@
 * {
-  color: #939597;
+  color: black;
   background-color: #F5DF4D;
+}
+p {
+  padding: 6px 10px;
+  border: 1px solid #939597;
 }
